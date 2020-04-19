@@ -2,7 +2,7 @@
 
 ## Setup
 
-Ouvrir le terminal dans le dossier du porjet, and continuer avec:
+Ouvrir le terminal dans le dossier du projet, and continuer avec:
 
 ```
 npm install
